@@ -13,11 +13,15 @@ Seus usuários devem ser capazes de:
 - Veja o layout ideal dependendo do tamanho da tela do dispositivo
 - Veja os estados de hover para elementos interativos
 
+
+ ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/user-attachments/assets/1812544d-13fa-42d5-b894-df4dd25b5c21)
+
+
 ![Funcionalidades do cartão](<Vídeo sem título ‐ Feito com o Clipchamp.gif>)
 
 ### Links
 
-- URL do site: 
+- [Visualize o site clicando aqui !](https://wesleysword.github.io/NFT-CARD/)
 
 ### O que aprendi
 
